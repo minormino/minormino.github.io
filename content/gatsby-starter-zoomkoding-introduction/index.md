@@ -195,5 +195,7 @@ categories: tutorial
 > 👉 [여기](https://github.com/zoomKoding/zoomkoding-gatsby-blog/issues/40)에 댓글 남겨주세요! 적극적으로 반영하겠습니다 :)
 
 ```toc
-
+1.
+2.
+3.
 ```
